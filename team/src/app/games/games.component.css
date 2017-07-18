@@ -1,0 +1,13 @@
+.selected{
+    font-weight: bold;
+    text-decoration: underline; 
+}
+.playing{
+    background-color: green;
+}
+.notPlaying{
+    background-color: red;    
+}
+.undecided{
+    background-color: yellow;
+}
